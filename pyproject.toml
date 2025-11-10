@@ -18,7 +18,7 @@ dependencies = [
     "pillow-heif",
     "plyfile",
     "python-box",
-    "rerun-sdk~=0.24.1",
+    "rerun-sdk",
     "safetensors",
     "tensorboard",
     "tqdm",
